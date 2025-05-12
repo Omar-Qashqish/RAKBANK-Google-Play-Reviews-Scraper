@@ -34,7 +34,7 @@ Each row in the DataFrame includes:
 | `Name`         | Name of the user who submitted the review   |
 | `Comment`      | The actual review text                      |
 | `Rating`       | The star rating (1 to 5)                    |
-| `Language`     | Language of the review (`ar` or `en`)       |
+| `Language`     | Language of the review (`ar` & `en`)       |
 
 ---
 
